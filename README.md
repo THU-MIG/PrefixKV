@@ -1,6 +1,6 @@
 # [PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation](https://arxiv.org/abs/2412.03409)
 
-Official PyTorch implementation of **PrefixKV**.
+Official PyTorch implementation of **PrefixKV**. [NeurIPS 2025]
 
 [PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation](https://arxiv.org/abs/2412.03409).\
 Ao Wang, Hui Chen, Jianchao Tan, Kefeng Zhang, Xunliang Cai, Zijia Lin, Jungong Han, Guiguang Ding\
